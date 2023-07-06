@@ -5,13 +5,6 @@ set -e
 # TODO: Set to URL of git repo.
 PROJECT_GIT_URL='https://github.com/Seoboseong/profiles-rest-api.git'
 
-#!/usr/bin/env bash
-
-set -e
-
-# TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/CHANGEME.git'
-
 PROJECT_BASE_PATH='/usr/local/apps/profiles-rest-api'
 
 echo "Installing dependencies..."
